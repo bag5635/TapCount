@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapCount</string>
+
+    <string name="zero">0</string>
+    <string name="tap_btn">Tap Up (+)</string>
+    <string name="tap_down">Tap Down (-)</string>
+    <string name="tap_reset">Reset</string>
+</resources>
